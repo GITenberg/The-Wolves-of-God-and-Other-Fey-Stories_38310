@@ -1,0 +1,36 @@
+_repo: The-Wolves-of-God-and-Other-Fey-Stories_38310
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38310-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wilson, Wilfred
+    gutenberg_agent_id: '39384'
+    url: http://www.gutenberg.org/2009/agents/39384
+  - agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: ''
+gutenberg_issued: '2011-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction, English'
+- !lcsh 'Short stories'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+tableOfContents: The wolves of God -- Chinese magic -- Running Wolf -- First hate
+  -- The tarn of sacrifice -- The valley of the beasts -- The call -- Egyptian sorcery
+  -- The decoy -- The man who found out -- The empty sleeve -- Wireless confusion
+  -- Confession -- The lane that ran east and west -- "Vengeance is mine".
+title: The Wolves of God, and Other Fey Stories
+url: http://www.gutenberg.org/ebooks/38310
